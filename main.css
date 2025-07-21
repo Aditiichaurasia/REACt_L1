@@ -1,0 +1,13 @@
+*{
+    width: 100%;
+
+}
+.head{
+    display: block;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 5px 0px;
+    margin-top: 30px;
+    border-radius: 20px;
+    background-image: linear-gradient(to right,#afdaf5, #87c9f1,rgb(241, 128, 174));
+
+}
